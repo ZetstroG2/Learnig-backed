@@ -1,0 +1,2 @@
+PORT=8000
+MONGODB_URI=mongodb+srv://rahul:<pasword>@cluster0.wqlpucu.mongodb.net
